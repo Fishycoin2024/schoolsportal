@@ -1,0 +1,2 @@
+mkdir -p school-management-saas/{src/{config,models,controllers,services,routes,middleware,validators,utils,jobs,seeds},tests,docs}
+cd school-management-saas
